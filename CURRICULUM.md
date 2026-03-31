@@ -20,9 +20,9 @@
 ### MODULE 1 — Python Core Syntax (Weeks 1-2)
 
 #### Session 1 — Variables and Data Types
-- [ ] Declare variables: str, int, float, bool, None
-- [ ] Understand = (assignment) vs == (comparison) vs is (identity)
-- [ ] Use type() to check any variable
+- [X] Declare variables: str, int, float, bool, None
+- [X] Understand = (assignment) vs == (comparison) vs is (identity)
+- [X] Use type() to check any variable
 - [ ] Type conversion: int(), str(), float(), bool()
 - [ ] Arithmetic operators: +, -, *, /, //, %, **
 
